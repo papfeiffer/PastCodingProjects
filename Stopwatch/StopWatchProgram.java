@@ -16,7 +16,6 @@ import static org.junit.Assert.assertTrue;
  * This Program will display a stopwatch that can be started and stopped with a
  * button placed at the bottom of the window.
  *
- * Created by shoop on 2/25/16.
  */
 public class StopWatchProgram extends GraphicsProgram {
 
